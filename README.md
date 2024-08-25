@@ -1,6 +1,6 @@
 
-# [STAR-BOT](https://github.com/Xcelsama)
-<a href="https://ibb.co/b2R24gk"><img src="https://i.ibb.co/z7H73hz/20240805-174110.jpg" alt="20240805-174110" border="0"></a>
+# [WHITE-X-BOT](https://github.com/W18T4SE6)
+<a href="https://ibb.co/b2R24gk"><img src="" alt="20240805-174110" border="0"></a>
 
 >STAR-MD-V2 is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
@@ -9,7 +9,7 @@
 >🤝Thanks to Salman & his team ☕
 
 ## `BOT-INTRO`
-STAR-MD-V2 is a 🌟 versatile Multi-Device bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
+WHITE-MD-V2 is a 🌟 versatile Multi-Device bot 🤖 recoded by the talented [Excel Amadi](https://github.com/W18T4SE6/) It offers a wide array of features, making it an advanced and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
 
 ## `Features`
 
@@ -36,7 +36,7 @@ STAR-MD-V2 is a 🌟 versatile Multi-Device bot 🤖 recoded by the talented [Ex
 
  ## ⭐️`Star This Repo` ⭐️
 
-Give STAR-BOT a star to show your appreciation and support 🌟 to the Developers.
+Give WHOTE-X-BOT a star to show your appreciation and support 🌟 to the Developers.
 
 
 
@@ -44,7 +44,7 @@ Give STAR-BOT a star to show your appreciation and support 🌟 to the Developer
 ## 🎯 `Installation Procedure` 🎯
 ## TODO: ```Fork STAR-BOT```
 
-   <a href="https://github.com/Xcelsama/STAR-BOT/fork
+   <a href="https://github.com/W18T4SE6/WHITE-X-BOT/fork
 "><img title="STAR" src="https://img.shields.io/badge/FORK STAR-BOT?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
@@ -54,11 +54,11 @@ Give STAR-BOT a star to show your appreciation and support 🌟 to the Developer
 
 ## TODO: ```DEPLOYMENT```
 
->STAR-BOT CAN BE DEPLOYED ON VARIOUS HOSTING PLATFORM JUST FORK & IMPORT THE FORKED REPO ADD ENVIRONMENT VARIABLES : SESSION_ID & DATABASE_URL: MONGODB_URI 
+>WHITE-X-BOT CAN BE DEPLOYED ON VARIOUS HOSTING PLATFORM JUST FORK & IMPORT THE FORKED REPO ADD ENVIRONMENT VARIABLES : SESSION_ID & DATABASE_URL: MONGODB_URI 
 
 >You must not add DATABASE_URL
 
-## ```STAR-BOT CAN BE DEPLOYED ON```
+## ```WHITE-X-BOT CAN BE DEPLOYED ON```
 
  
 ### ```RENDER```
@@ -98,4 +98,4 @@ Add Environment Variables SESSION_ID & DATABASE_URL Then Click Deploy.
  
 ## ```🤝 THANKS TO EVERYONE  THAT MADE THIS PROJECT POSSIBLE```
 
-©Xcelsama 2024
+ @ W18T4 SE6 2024
